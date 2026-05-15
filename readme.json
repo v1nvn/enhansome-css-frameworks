@@ -13,7 +13,7 @@
             "last_commit": "2025-01-11T10:10:45Z",
             "owner": "sindresorhus",
             "repo": "modern-normalize",
-            "stars": 7320
+            "stars": 7321
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2023-04-16T09:49:13Z",
             "owner": "frontaid",
             "repo": "natural-selection",
-            "stars": 242
+            "stars": 243
           }
         }
       ],
@@ -84,7 +84,7 @@
             "last_commit": "2026-04-07T01:47:31Z",
             "owner": "oxalorg",
             "repo": "sakura",
-            "stars": 4372
+            "stars": 4373
           }
         },
         {
@@ -97,7 +97,7 @@
             "last_commit": "2026-05-09T08:45:46Z",
             "owner": "kevquirk",
             "repo": "simple.css",
-            "stars": 4963
+            "stars": 4964
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-02-14T03:48:55Z",
             "owner": "pure-css",
             "repo": "pure",
-            "stars": 23741
+            "stars": 23742
           }
         },
         {
@@ -171,10 +171,10 @@
           "repo_info": {
             "archived": false,
             "language": "MDX",
-            "last_commit": "2026-05-12T14:11:38Z",
+            "last_commit": "2026-05-15T05:32:01Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174237
+            "stars": 174240
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50077
+            "stars": 50078
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2025-01-21T22:11:53Z",
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29763
+            "stars": 29761
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-05-11T17:01:22Z",
             "owner": "uikit",
             "repo": "uikit",
-            "stars": 18532
+            "stars": 18533
           }
         },
         {
@@ -223,10 +223,10 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-05-14T05:33:00Z",
+            "last_commit": "2026-05-15T05:34:13Z",
             "owner": "primer",
             "repo": "css",
-            "stars": 12943
+            "stars": 12944
           }
         },
         {
@@ -236,10 +236,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-14T04:56:32Z",
+            "last_commit": "2026-05-15T05:40:07Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9121
+            "stars": 9123
           }
         },
         {
@@ -249,7 +249,7 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-05-13T22:53:40Z",
+            "last_commit": "2026-05-14T23:05:49Z",
             "owner": "uswds",
             "repo": "uswds",
             "stars": 7095
@@ -262,10 +262,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-12T11:01:53Z",
+            "last_commit": "2026-05-14T11:14:45Z",
             "owner": "fomantic",
             "repo": "Fomantic-UI",
-            "stars": 3750
+            "stars": 3752
           }
         },
         {
@@ -288,10 +288,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-05-12T16:07:48Z",
+            "last_commit": "2026-05-14T16:14:06Z",
             "owner": "canonical",
             "repo": "vanilla-framework",
-            "stars": 960
+            "stars": 961
           }
         },
         {
@@ -301,10 +301,10 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-05-13T15:27:38Z",
+            "last_commit": "2026-05-14T15:47:20Z",
             "owner": "patternfly",
             "repo": "patternfly",
-            "stars": 799
+            "stars": 800
           }
         },
         {
@@ -314,10 +314,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T15:25:46Z",
+            "last_commit": "2026-05-14T21:46:31Z",
             "owner": "StackExchange",
             "repo": "Stacks",
-            "stars": 662
+            "stars": 663
           }
         },
         {
@@ -346,10 +346,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-05-13T19:28:06Z",
+            "last_commit": "2026-05-14T19:40:51Z",
             "owner": "beercss",
             "repo": "beercss",
-            "stars": 2309
+            "stars": 2311
           }
         },
         {
@@ -378,10 +378,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-13T16:25:44Z",
+            "last_commit": "2026-05-14T22:08:13Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 95000
+            "stars": 95018
           }
         },
         {
@@ -394,7 +394,7 @@
             "last_commit": "2026-01-31T17:22:16Z",
             "owner": "argyleink",
             "repo": "open-props",
-            "stars": 5378
+            "stars": 5379
           }
         }
       ],
@@ -413,7 +413,7 @@
             "last_commit": "2024-01-17T20:53:09Z",
             "owner": "nostalgic-css",
             "repo": "NES.css",
-            "stars": 21728
+            "stars": 21729
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2025-09-07T13:40:43Z",
             "owner": "jdan",
             "repo": "98.css",
-            "stars": 11053
+            "stars": 11055
           }
         },
         {
@@ -439,7 +439,7 @@
             "last_commit": "2024-10-08T08:25:28Z",
             "owner": "edwardtufte",
             "repo": "tufte-css",
-            "stars": 6476
+            "stars": 6477
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2023-10-10T11:06:49Z",
             "owner": "vinibiavatti1",
             "repo": "TuiCss",
-            "stars": 1935
+            "stars": 1934
           }
         },
         {
@@ -549,7 +549,7 @@
             "last_commit": "2024-11-27T21:01:48Z",
             "owner": "Semantic-Org",
             "repo": "Semantic-UI",
-            "stars": 51097
+            "stars": 51096
           }
         },
         {
@@ -562,7 +562,7 @@
             "last_commit": "2025-01-13T20:42:50Z",
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17072
+            "stars": 17073
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2024-09-13T18:28:12Z",
             "owner": "thoughtbot",
             "repo": "bourbon",
-            "stars": 9019
+            "stars": 9018
           }
         },
         {
@@ -601,7 +601,7 @@
             "last_commit": "2024-02-11T14:50:20Z",
             "owner": "kognise",
             "repo": "water.css",
-            "stars": 8626
+            "stars": 8627
           }
         },
         {
@@ -614,7 +614,7 @@
             "last_commit": "2026-03-26T11:31:36Z",
             "owner": "csstools",
             "repo": "sanitize.css",
-            "stars": 5293
+            "stars": 5294
           }
         },
         {
@@ -705,7 +705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:45:38.249Z",
+    "last_updated": "2026-05-15T05:53:02.158Z",
     "original_repository": "troxler/awesome-css-frameworks",
     "source_repository": "v1nvn/enhansome-css-frameworks",
     "source_repository_description": null,
