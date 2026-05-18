@@ -13,7 +13,7 @@
             "last_commit": "2025-01-11T10:10:45Z",
             "owner": "sindresorhus",
             "repo": "modern-normalize",
-            "stars": 7323
+            "stars": 7325
           }
         },
         {
@@ -58,7 +58,7 @@
             "last_commit": "2026-05-09T18:16:06Z",
             "owner": "picocss",
             "repo": "pico",
-            "stars": 16579
+            "stars": 16581
           }
         },
         {
@@ -71,7 +71,7 @@
             "last_commit": "2026-02-27T18:01:09Z",
             "owner": "andybrewer",
             "repo": "mvp",
-            "stars": 5129
+            "stars": 5130
           }
         },
         {
@@ -97,7 +97,7 @@
             "last_commit": "2026-05-09T08:45:46Z",
             "owner": "kevquirk",
             "repo": "simple.css",
-            "stars": 4963
+            "stars": 4962
           }
         },
         {
@@ -155,7 +155,7 @@
             "last_commit": "2024-11-18T10:42:20Z",
             "owner": "jenil",
             "repo": "chota",
-            "stars": 1540
+            "stars": 1539
           }
         }
       ],
@@ -174,7 +174,7 @@
             "last_commit": "2026-05-15T05:32:01Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174243
+            "stars": 174247
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50078
+            "stars": 50081
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2025-01-21T22:11:53Z",
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29762
+            "stars": 29764
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-05-11T17:01:22Z",
             "owner": "uikit",
             "repo": "uikit",
-            "stars": 18533
+            "stars": 18536
           }
         },
         {
@@ -226,7 +226,7 @@
             "last_commit": "2026-05-15T05:34:13Z",
             "owner": "primer",
             "repo": "css",
-            "stars": 12946
+            "stars": 12948
           }
         },
         {
@@ -236,10 +236,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-17T05:41:46Z",
+            "last_commit": "2026-05-17T14:37:42Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9126
+            "stars": 9127
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-05-15T20:32:03Z",
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7096
+            "stars": 7097
           }
         },
         {
@@ -275,7 +275,7 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-05-16T03:24:03Z",
+            "last_commit": "2026-05-18T05:46:09Z",
             "owner": "Spiderpig86",
             "repo": "Cirrus",
             "stars": 1428
@@ -346,10 +346,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-05-15T14:45:12Z",
+            "last_commit": "2026-05-17T15:06:09Z",
             "owner": "beercss",
             "repo": "beercss",
-            "stars": 2311
+            "stars": 2313
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-05-16T13:40:31Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 95032
+            "stars": 95046
           }
         },
         {
@@ -394,7 +394,7 @@
             "last_commit": "2026-01-31T17:22:16Z",
             "owner": "argyleink",
             "repo": "open-props",
-            "stars": 5382
+            "stars": 5385
           }
         }
       ],
@@ -413,7 +413,7 @@
             "last_commit": "2024-01-17T20:53:09Z",
             "owner": "nostalgic-css",
             "repo": "NES.css",
-            "stars": 21731
+            "stars": 21733
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2025-09-07T13:40:43Z",
             "owner": "jdan",
             "repo": "98.css",
-            "stars": 11058
+            "stars": 11059
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2023-11-26T15:31:56Z",
             "owner": "sakofchit",
             "repo": "system.css",
-            "stars": 3774
+            "stars": 3772
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2025-03-08T16:02:01Z",
             "owner": "botoxparty",
             "repo": "XP.css",
-            "stars": 2957
+            "stars": 2958
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2026-03-17T15:32:33Z",
             "owner": "khang-nd",
             "repo": "7.css",
-            "stars": 2349
+            "stars": 2353
           }
         },
         {
@@ -549,7 +549,7 @@
             "last_commit": "2024-11-27T21:01:48Z",
             "owner": "Semantic-Org",
             "repo": "Semantic-UI",
-            "stars": 51096
+            "stars": 51093
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2024-09-13T18:28:12Z",
             "owner": "thoughtbot",
             "repo": "bourbon",
-            "stars": 9015
+            "stars": 9014
           }
         },
         {
@@ -705,7 +705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-17T05:46:42.716Z",
+    "last_updated": "2026-05-18T06:11:38.240Z",
     "original_repository": "troxler/awesome-css-frameworks",
     "source_repository": "v1nvn/enhansome-css-frameworks",
     "source_repository_description": null,
